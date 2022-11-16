@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Ecommerce - React - Material UI v5
+Es un proyecto Realizado para academia Numen, en la carrera de Full Stack Web Developer.
+Se trata de un ecommerce realizado con React.js y Material UI para los estilos.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
